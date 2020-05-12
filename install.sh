@@ -1,2 +1,4 @@
 npm install -g npm
-npm install -g @angular/cli
+install -g @angular/cli  <<EOF
+n
+EOF
